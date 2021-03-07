@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="button_name">Addition</string>
+    <string name="text_name">Enter number</string>
+    <string name="result">Result</string>
+    <string name="expression">Expression</string>
+    <string name="multiply">*</string>
+</resources>
